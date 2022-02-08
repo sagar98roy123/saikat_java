@@ -3,7 +3,7 @@ package saikat.java.basic;
 
 class Vehical{
 	String color;
-	int no_of_wheels;
+	int no_of_wheels;// instance variable
 	
 	int getHeight() { // method
 		return 2+2;
