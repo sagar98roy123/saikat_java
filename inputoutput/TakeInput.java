@@ -1,4 +1,4 @@
-package saikat.java.basic.inputoutput;
+package saikat.java.inputoutput;
 
 import java.util.Scanner;
 
